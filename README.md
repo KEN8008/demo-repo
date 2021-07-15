@@ -6,4 +6,4 @@ Some Description!
 This message is to guide you on the project.
 
 ## local development
-open index.html in your web browser.
+open index.html in your web browser.(use any browser)
